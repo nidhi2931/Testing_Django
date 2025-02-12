@@ -22,4 +22,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('test1/',include('test1.urls')),
     path('input_field_test/',include('InputFieldTest.urls')),
+    path('add_name/',include('add_name.urls')),
 ]

@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'test1',
     'rest_framework',
     'InputFieldTest',
+    'add_name',
 ]
 
 MIDDLEWARE = [
